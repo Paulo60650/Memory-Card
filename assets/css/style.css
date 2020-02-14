@@ -1,0 +1,11 @@
+.sprite {
+    background-image: url(../img/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-doscarte {
+    width: 183px;
+    height: 250px;
+    background-position: -1px -1px;
+}
